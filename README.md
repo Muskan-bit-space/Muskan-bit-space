@@ -4,7 +4,7 @@
 <!-- ===================================================== -->
 
 <p align="center">
-  <img src="assets/quant-banner.svg" width="100%" alt="Muskan - Quantitative Systems Engineering"/>
+  <img src="./assets/quant-banner.svg" width="100%" alt="Muskan - Quantitative Systems Engineering"/>
 </p>
 
 <p align="center">
