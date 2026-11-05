@@ -36,13 +36,13 @@ Currently strengthening my foundations in **Data Structures & Algorithms, Databa
 
 `C++` `C` `Python` `JavaScript` `R`
 
-**Backend & Frameworks**
+**Web Frameworks**
 
 `Node.js` `Express.js` `React` `REST APIs`
 
 **Databases & Infrastructure**
 
-`PostgreSQL` `MongoDB` `Redis` `Supabase`
+`PostgreSQL` `MongoDB` `Supabase` `Redis` 
 
 **Core Computer Science**
 
