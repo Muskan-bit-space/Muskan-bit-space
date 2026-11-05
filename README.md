@@ -1,159 +1,208 @@
-
-<!-- ===================================================== -->
-<!-- QUANT TERMINAL PROFILE README — MUSKAN                 -->
-<!-- ===================================================== -->
-
 <p align="center">
-  <img src="./assets/quant-banner.svg" width="100%" alt="Muskan - Quantitative Systems Engineering"/>
+  <img src="./assets/quant-banner.svg"
+       width="100%"
+       alt="Muskan - Backend Software Engineer"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/BACKEND-ENGINEERING-00E5A8?style=flat-square&labelColor=071321"/>
-  <img src="https://img.shields.io/badge/REAL--TIME-SYSTEMS-00D9FF?style=flat-square&labelColor=071321"/>
-  <img src="https://img.shields.io/badge/DSA-270%2B-8B7CFF?style=flat-square&labelColor=071321"/>
+  <a href="https://www.linkedin.com/in/muskan-b79805328/">LinkedIn</a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/Muskan-bit-space">GitHub</a>
+  &nbsp;·&nbsp;
+  <a href="https://leetcode.com/u/Muskan_280706/">LeetCode</a>
+  &nbsp;·&nbsp;
+  <a href="https://codeforces.com/profile/Muskan_2807">Codeforces</a>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/muskan-b79805328/">LINKEDIN</a> &nbsp; // &nbsp;
-  <a href="https://github.com/Muskan-bit-space">GITHUB</a> &nbsp; // &nbsp;
-  <a href="https://leetcode.com/u/Muskan_280706/">LEETCODE</a> &nbsp; // &nbsp;
-  <a href="https://codeforces.com/profile/Muskan_2807">CODEFORCES</a>
-</p>
-
----
-
-<h2><code>01 / PROFILE OVERVIEW</code></h2>
-
-Computer Science undergraduate at **Indira Gandhi Delhi Technical University for Women (IGDTUW)**, interested in building scalable backend systems, real-time applications, and data-driven software solutions.
-
-I enjoy working with backend architectures, database optimization, REST APIs, and distributed communication systems, with hands-on experience developing full-stack applications.
-
-**Primary Focus:** Backend Engineering | Real-Time Systems | Database Optimization
-
----
-
-<h2><code>02 / TECHNICAL ARSENAL</code></h2>
-
-| DOMAIN | TECHNOLOGIES |
-|:---|:---|
-| Programming | C++, C, JavaScript, Python, R |
-| Backend | Node.js, Express.js, REST APIs, JWT, Socket.IO |
-| Frontend | React.js |
-| Databases | PostgreSQL, MongoDB, Supabase |
-| Caching | Redis |
-| CS Fundamentals | DSA, OOP, DBMS, OS, CN |
-| Developer Tools | Git, GitHub, Postman, VS Code, Cursor |
-
----
-
-<h2><code>03 / PROFESSIONAL EXPERIENCE</code></h2>
-
-### CFEES (DRDO) — Website Development Summer Intern
-
-`JUNE 2025 — JULY 2025`
-
-**TECH STACK:** React.js · Node.js · Express.js · MongoDB · REST APIs
-
-- Co-designed and developed a full-stack inventory management portal using React, Express.js, and MongoDB, handling **100–150 inventory transactions daily**.
-- Implemented real-time stock synchronization using MongoDB Change Streams, improving inventory accuracy and reducing allocation delays.
-- Worked on database-driven application development and REST API integration.
-
----
-
-<h2><code>04 / SYSTEMS & PROJECTS</code></h2>
-
-### [01] QUIZLY — Real-Time Multiplayer Quiz Platform
-
-`2026` | `REAL-TIME SYSTEMS` `BACKEND ENGINEERING`
-
-**TECH STACK:** React.js · Node.js · Express.js · PostgreSQL · Redis · Socket.IO · JWT
-
-- Engineered a real-time multiplayer quiz platform supporting synchronized question delivery, live leaderboard updates, and concurrent gameplay for **100+ real users in each room**.
-- Designed a modular Node.js and Express.js backend with stateless REST APIs, input validation, centralized error handling, and separation of concerns.
-- Developed normalized PostgreSQL schemas with indexed queries and optimized data retrieval.
-- Implemented Redis caching for frequently accessed quiz and leaderboard data, reducing database load by **80%**.
-- Integrated JWT-based authentication and event-driven communication for real-time multiplayer sessions.
-- Developed a platform adopted by multiple faculty members to create, manage, and conduct multiplayer quizzes.
-
----
-
-### [02] FleetPulse — Real-Time Vehicle Telemetry & Analytics
-
-`MSC IGDTUW HACKATHON 2025` | `DATA PROCESSING` `REAL-TIME ANALYTICS`
-
-**TECH STACK:** Node.js · Express.js · PostgreSQL · Redis · Socket.IO · React.js
-
-- Built a REST-based telemetry ingestion pipeline processing **500+ records per minute across 150+ vehicles**.
-- Implemented real-time detection of overspeeding, low fuel, and abnormal engine conditions.
-- Designed indexed PostgreSQL storage and sliding-window aggregations for time-series analytics, reducing analytical query time by **90%**.
-- Integrated Redis and Socket.IO for real-time vehicle monitoring and alert streaming.
-- Applied batching, indexing, connection pooling, and pre-aggregation to improve ingestion throughput and retrieval performance.
-
----
-
-<h2><code>05 / PERFORMANCE METRICS</code></h2>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/QUIZLY-100%2B_USERS%2FROOM-00E5A8?style=for-the-badge&labelColor=071321"/>
-  <img src="https://img.shields.io/badge/DB_LOAD-80%25_REDUCTION-00D9FF?style=for-the-badge&labelColor=071321"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/FLEETPULSE-500%2B_RECORDS%2FMIN-00E5A8?style=for-the-badge&labelColor=071321"/>
-  <img src="https://img.shields.io/badge/VEHICLES-150%2B-8B7CFF?style=for-the-badge&labelColor=071321"/>
-  <img src="https://img.shields.io/badge/QUERY_TIME-90%25_REDUCTION-00D9FF?style=for-the-badge&labelColor=071321"/>
+  <i>Building backend systems that process data, handle concurrency, and scale.</i>
 </p>
 
 ---
 
-<h2><code>06 / ACHIEVEMENTS & RECOGNITION</code></h2>
+## About
 
-- 🥉 **3rd Prize — AlgoHeist, IGDTUW (2026)**
-- 💻 **270+ DSA Problems Solved** across competitive programming platforms.
-- 🏅 **Finalist — Enactus Enactova, IGDTUW (2025)**
-- 🥉 **3rd Prize — Vigyansh, CarbonQuest, DTU (2025)**
+Computer Science undergraduate at **Indira Gandhi Delhi Technical University for Women (IGDTUW)** with an interest in backend engineering, data-driven systems, and scalable applications.
 
----
+I enjoy building applications involving real-time communication, database optimization, API design, and concurrent user interactions.
 
-<h2><code>07 / EDUCATION</code></h2>
-
-**B.Tech — Computer Science & Engineering**
-
-Indira Gandhi Delhi Technical University for Women (IGDTUW), New Delhi
-
-`2024 — PRESENT` | **CGPA: 8.7/10**
+Currently strengthening my foundations in **Data Structures & Algorithms, Database Management Systems, Operating Systems, and Computer Networks**.
 
 ---
 
-<h2><code>08 / COMPETITIVE PROGRAMMING</code></h2>
+## Technical Skills
+
+**Languages**
+
+`C++` `C` `Python` `JavaScript` `R`
+
+**Backend & Frameworks**
+
+`Node.js` `Express.js` `React` `REST APIs`
+
+**Databases & Infrastructure**
+
+`PostgreSQL` `MongoDB` `Redis` `Supabase`
+
+**Core Computer Science**
+
+`Data Structures & Algorithms` `OOP` `DBMS` `Operating Systems` `Computer Networks`
+
+**Tools**
+
+`Git` `GitHub` `Postman` `VS Code` `Cursor`
+
+---
+
+## Experience
+
+### DRDO — CFEES | Website Development Intern
+
+*June 2025 – July 2025*
+
+- Developed an inventory management portal using React, Express.js, and MongoDB to streamline inventory tracking and allocation workflows.
+- Designed REST APIs and database models to support inventory operations and structured data management.
+- Implemented MongoDB Change Streams for real-time synchronization of stock updates across the application.
+- Worked with inventory workflows handling approximately 100–150 transactions daily.
+
+---
+
+## Selected Projects
+
+### QUIZLY — Real-Time Multiplayer Quiz Platform
+
+<p>
+  <a href="https://quizzo-frontend.vercel.app/">
+    <img src="https://img.shields.io/badge/Live_Demo-Visit-00D9A6?style=flat-square&labelColor=101F2C"/>
+  </a>
+  <img src="https://img.shields.io/badge/2026-Project-647B8E?style=flat-square&labelColor=101F2C"/>
+</p>
+
+<p>
+  <code>React</code>
+  <code>Node.js</code>
+  <code>Express</code>
+  <code>PostgreSQL</code>
+  <code>Redis</code>
+  <code>Socket.IO</code>
+  <code>JWT</code>
+</p>
+
+- Built a real-time multiplayer quiz platform supporting 100+ users per room with synchronized question delivery and live leaderboard updates.
+- Developed modular REST APIs using Node.js and Express.js, following separation of concerns and centralized error handling.
+- Designed normalized PostgreSQL schemas and indexed queries for efficient data retrieval.
+- Integrated Redis caching for frequently accessed quiz and leaderboard data, reducing database load by 80%.
+- Implemented JWT-based authentication and Socket.IO event-driven communication for real-time gameplay.
+
+[Frontend Repository](https://quizzo-frontend.vercel.app/) · [Backend Repository](https://github.com/Muskan-bit-space/quizzo_backend)
+
+---
+
+### FleetPulse — Real-Time Vehicle Telemetry & Analytics
+
+<p>
+  <img src="https://img.shields.io/badge/2025-Hackathon_Project-647B8E?style=flat-square&labelColor=101F2C"/>
+</p>
+
+<p>
+  <code>React</code>
+  <code>Node.js</code>
+  <code>Express</code>
+  <code>PostgreSQL</code>
+  <code>Redis</code>
+  <code>Socket.IO</code>
+</p>
+
+- Developed a vehicle telemetry monitoring platform processing 500+ records per minute across 150+ simulated vehicles.
+- Implemented telemetry ingestion APIs and threshold-based alerts for overspeeding, low fuel, and abnormal engine conditions.
+- Used indexed PostgreSQL queries and sliding-window analytics to reduce query execution time by 90%.
+- Integrated Redis caching, batching, and connection pooling to improve data retrieval and processing efficiency.
+- Designed real-time monitoring workflows for vehicle performance and operational analytics.
+
+---
+
+## Engineering Highlights
+
+<table>
+<tr>
+<td align="center" width="25%">
+<h2>100+</h2>
+<strong>Users / Room</strong>
+<br/>
+<sub>QUIZLY</sub>
+</td>
+<td align="center" width="25%">
+<h2>80%</h2>
+<strong>DB Load Reduction</strong>
+<br/>
+<sub>QUIZLY</sub>
+</td>
+<td align="center" width="25%">
+<h2>500+</h2>
+<strong>Records / Min</strong>
+<br/>
+<sub>FLEETPULSE</sub>
+</td>
+<td align="center" width="25%">
+<h2>150+</h2>
+<strong>Vehicles</strong>
+<br/>
+<sub>FLEETPULSE</sub>
+</td>
+</tr>
+</table>
+
+<p align="center">
+<sub>Selected engineering metrics from project implementations.</sub>
+</p>
+
+---
+
+## Achievements
+
+- **3rd Prize — AlgoHeist, IGDTUW (2026)**
+- **Top 45 Finalists — Enactova 2025**, Enactus IGDTUW, among 1,600+ applications.
+- **3rd Prize — Vigyansh CarbonQuest, DTU (2025)**, for a sustainable technology proposal.
+
+---
+
+## Education
+
+**Indira Gandhi Delhi Technical University for Women (IGDTUW)**
+
+B.Tech — Computer Science and Engineering
+
+2024 – Present
+
+CGPA: **8.7**
+
+---
+
+## Competitive Programming
+
+- Solved **270+ problems** across coding platforms.
+- Practicing Data Structures and Algorithms with a focus on problem-solving and algorithmic thinking.
 
 <p>
   <a href="https://leetcode.com/u/Muskan_280706/">
-    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=flat-square&logo=leetcode&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=flat-square&logo=leetcode&logoColor=black"/>
   </a>
   <a href="https://codeforces.com/profile/Muskan_2807">
-    <img src="https://img.shields.io/badge/Codeforces-Profile-445F9D?style=flat-square&logo=codeforces&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Codeforces-Profile-1F8ACB?style=flat-square&logo=codeforces&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-<h2><code>09 / CONNECT</code></h2>
+## Let's Connect
 
-**Open to:** Backend Engineering · Software Development · Full-Stack Engineering · Real-Time Systems
-
-<p>
-  <a href="https://www.linkedin.com/in/muskan-b79805328/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-00D9FF?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/Muskan-bit-space">
-    <img src="https://img.shields.io/badge/GitHub-Follow-00E5A8?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="mailto:muskan4mann@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-8B7CFF?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+I'm interested in opportunities involving **backend engineering, software development, data infrastructure, and real-time systems**.
 
 <p align="center">
-  <code>BUILD RELIABLY. OPTIMIZE CONTINUOUSLY. ENGINEER AT SCALE.</code>
+  <a href="mailto:muskan4mann@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-00D9A6?style=flat-square&labelColor=101F2C"/>
+  </a>
+  <a href="https://www.linkedin.com/in/muskan-b79805328/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-48D8FF?style=flat-square&labelColor=101F2C"/>
+  </a>
 </p>
